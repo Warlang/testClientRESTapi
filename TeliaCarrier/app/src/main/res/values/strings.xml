@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeliaCarrier</string>
+    <string name="edit_text_hint">Enter movie name...</string>
+    <string name="button_start_search_text">Search</string>
+    <string name="layout_telia_movie_finder">Movie Knowledge Center</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+
+
+    <string name="title">Title:</string>
+    <string name="released">Released:</string>
+</resources>
